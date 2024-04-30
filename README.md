@@ -2,7 +2,7 @@
 
 This project is a simple React application built to demonstrate routing functionality using React Router. It includes features such as dynamic routing, nested routes, parameterized routes, handling not found routes, and URL query parameter manipulation. The project is set up with Vite for fast development and utilizes Bootstrap for styling.
 
-## GIF
+# GIF
 
 ![Screen_Recording_2024-02-02_at_19_54_31_AdobeExpress-ezgif com-video-to-gif-converter](https://github.com/tubayapa/React-Router-DOM-BookNerd/assets/147662888/82c8210e-4d7a-4983-ab96-513167cf53f5)
 
@@ -33,11 +33,4 @@ This project is a simple React application built to demonstrate routing function
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-## Contributing:
-
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this project.
-
-## License:
-
-This project is licensed under the [MIT License](link-to-license).
 
