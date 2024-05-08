@@ -4,7 +4,8 @@ This project is a simple React application built to demonstrate routing function
 
 # GIF
 
-![Screen_Recording_2024-02-02_at_19_54_31_AdobeExpress-ezgif com-video-to-gif-converter](https://github.com/tubayapa/React-Router-DOM-BookNerd/assets/147662888/82c8210e-4d7a-4983-ab96-513167cf53f5)
+![301959344-82c8210e-4d7a-4983-ab96-513167cf53f5](https://github.com/SakirParlakbileker/ReactRouterDOM-BookNerd/assets/147662891/99d6b8dd-3635-4b5e-85f2-edb4ae2e2bc3)
+
 
 
 ## Key Features:
